@@ -1,0 +1,31 @@
+_repo: The-Story-of-Kennett_8680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Bayard
+    aliases:
+    - Taylor, J. B.
+    - Taylor, J.B.
+    - Taylor, James Bayard
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: http://en.wikipedia.org/wiki/Bayard_Taylor
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pennsylvania -- Fiction'
+title: The Story of Kennett
+url: http://www.gutenberg.org/ebooks/8680
